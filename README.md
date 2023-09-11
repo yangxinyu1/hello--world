@@ -1,2 +1,2 @@
-# hello--world
+# helloworld
 A beginner's course
